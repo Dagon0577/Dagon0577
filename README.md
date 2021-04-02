@@ -9,7 +9,7 @@
 </div>
 <div>
 
-#### Platform&Tools
+### Platform&Tools
 [![](https://img.shields.io/badge/OS-CentOS%20Linux-33aadd?style=flat-square&logo=CentOs&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
@@ -17,7 +17,7 @@
 [![](https://img.shields.io/badge/Intellij-Idea-blue?style=flat-square&logo=intellij%20idea&logoColor=000000)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/iPhone-12-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 
-#### Professional Skill
+### Professional Skill
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.oracle.com/java/technologies/javase-downloads.html)
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#spring-core)
@@ -30,10 +30,10 @@
 [![](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 
-#### Contact
+### Contact
 [![](https://img.shields.io/badge/-dagon0577@gmail.com-3776AB?style=flat-square&logo=gmail&logoColor=ffffff)](https://www.python.org/)
 
-#### Console&Game
+### Console&Game
 
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 
