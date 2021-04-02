@@ -1,7 +1,11 @@
 ### <h1 align="center">Hi 👋, I'm Dagon0577</h1>
 
-
-![info](https://github-readme-stats.vercel.app/api?username=Dagon0577&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+<div>
+<div>
+<img  src="https://github-readme-stats.vercel.app/api?username=Dagon0577&show_icons=true&count_private=true&hide=prs&theme=default_repocard" alt="Dagon0577" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Dagon0577&show_icons=true&locale=en&layout=compact" alt="Dagon0577" />
+</div>
+<div>
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-CentOS%20Linux-33aadd?style=flat-square&logo=CentOs&logoColor=ffffff)](https://www.archlinux.org/)
