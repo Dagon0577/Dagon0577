@@ -1,5 +1,7 @@
 ### <h1 align="center">Hi 👋, I'm Dagon0577</h1>
 
+- 👾 I have written numerous bugs💻.
+
 <div>
 <div>
 <img  src="https://github-readme-stats.vercel.app/api?username=Dagon0577&show_icons=true&count_private=true&hide=prs&theme=default_repocard" alt="Dagon0577" />
