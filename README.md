@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1 align="center">Hi 👋, I'm Dagon0577</h1>
 
 
 ![info](https://github-readme-stats.vercel.app/api?username=Dagon0577&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
