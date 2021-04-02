@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi 👋, I'm Dagon0577</h1>
 
-- 👾 I have written numerous bugs💻.
+- 👾 I have written numerous bugs.
 
 <div>
 <div>
